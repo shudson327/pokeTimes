@@ -2,13 +2,11 @@ import React from 'react'
 import { NavLink, Link, withRouter } from 'react-router-dom'
 
 const Navbar = (props) => {
-    // setTimeout(()=> {
-    //     props.history.push('/about')
-    // }, 2000)
+ 
     return (
         <nav className='nav-wrapper red darken-3'>
             <div className="container">
-                <a href="_" className="brand-logo">Poke'Times</a>
+                <a href="/" className="brand-logo">Poke'Times</a>
                 <ul className="right">
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/about">About</Link></li>
