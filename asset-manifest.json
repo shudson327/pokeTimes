@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokeTimes/static/css/main.d0d360c5.chunk.css",
-    "main.js": "/pokeTimes/static/js/main.5cb80041.chunk.js",
-    "main.js.map": "/pokeTimes/static/js/main.5cb80041.chunk.js.map",
+    "main.js": "/pokeTimes/static/js/main.2b2c025c.chunk.js",
+    "main.js.map": "/pokeTimes/static/js/main.2b2c025c.chunk.js.map",
     "runtime-main.js": "/pokeTimes/static/js/runtime-main.e62d6763.js",
     "runtime-main.js.map": "/pokeTimes/static/js/runtime-main.e62d6763.js.map",
     "static/js/2.0cb5856f.chunk.js": "/pokeTimes/static/js/2.0cb5856f.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e62d6763.js",
     "static/js/2.0cb5856f.chunk.js",
     "static/css/main.d0d360c5.chunk.css",
-    "static/js/main.5cb80041.chunk.js"
+    "static/js/main.2b2c025c.chunk.js"
   ]
 }
