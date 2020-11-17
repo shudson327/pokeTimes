@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/pokeTimes/static/css/main.d0d360c5.chunk.css",
-    "main.js": "/pokeTimes/static/js/main.64e618c1.chunk.js",
-    "main.js.map": "/pokeTimes/static/js/main.64e618c1.chunk.js.map",
-    "runtime-main.js": "/pokeTimes/static/js/runtime-main.8bebb4cc.js",
-    "runtime-main.js.map": "/pokeTimes/static/js/runtime-main.8bebb4cc.js.map",
-    "static/js/2.0cb5856f.chunk.js": "/pokeTimes/static/js/2.0cb5856f.chunk.js",
-    "static/js/2.0cb5856f.chunk.js.map": "/pokeTimes/static/js/2.0cb5856f.chunk.js.map",
-    "static/js/3.b0395ea9.chunk.js": "/pokeTimes/static/js/3.b0395ea9.chunk.js",
-    "static/js/3.b0395ea9.chunk.js.map": "/pokeTimes/static/js/3.b0395ea9.chunk.js.map",
-    "index.html": "/pokeTimes/index.html",
-    "static/css/main.d0d360c5.chunk.css.map": "/pokeTimes/static/css/main.d0d360c5.chunk.css.map",
-    "static/js/2.0cb5856f.chunk.js.LICENSE.txt": "/pokeTimes/static/js/2.0cb5856f.chunk.js.LICENSE.txt",
-    "static/media/pokeball.05e5662d.png": "/pokeTimes/static/media/pokeball.05e5662d.png"
+    "main.css": "/funfacts/static/css/main.2f6ca9e1.chunk.css",
+    "main.js": "/funfacts/static/js/main.f2995ac4.chunk.js",
+    "main.js.map": "/funfacts/static/js/main.f2995ac4.chunk.js.map",
+    "runtime-main.js": "/funfacts/static/js/runtime-main.6bd7ee95.js",
+    "runtime-main.js.map": "/funfacts/static/js/runtime-main.6bd7ee95.js.map",
+    "static/js/2.0f2c0fa3.chunk.js": "/funfacts/static/js/2.0f2c0fa3.chunk.js",
+    "static/js/2.0f2c0fa3.chunk.js.map": "/funfacts/static/js/2.0f2c0fa3.chunk.js.map",
+    "static/js/3.28f42a6f.chunk.js": "/funfacts/static/js/3.28f42a6f.chunk.js",
+    "static/js/3.28f42a6f.chunk.js.map": "/funfacts/static/js/3.28f42a6f.chunk.js.map",
+    "index.html": "/funfacts/index.html",
+    "static/css/main.2f6ca9e1.chunk.css.map": "/funfacts/static/css/main.2f6ca9e1.chunk.css.map",
+    "static/js/2.0f2c0fa3.chunk.js.LICENSE.txt": "/funfacts/static/js/2.0f2c0fa3.chunk.js.LICENSE.txt",
+    "static/media/texas.4d6687b2.png": "/funfacts/static/media/texas.4d6687b2.png",
+    "static/media/usa.d7e965a3.png": "/funfacts/static/media/usa.d7e965a3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bebb4cc.js",
-    "static/js/2.0cb5856f.chunk.js",
-    "static/css/main.d0d360c5.chunk.css",
-    "static/js/main.64e618c1.chunk.js"
+    "static/js/runtime-main.6bd7ee95.js",
+    "static/js/2.0f2c0fa3.chunk.js",
+    "static/css/main.2f6ca9e1.chunk.css",
+    "static/js/main.f2995ac4.chunk.js"
   ]
 }
